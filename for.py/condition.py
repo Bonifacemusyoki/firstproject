@@ -4,5 +4,6 @@ if num<0:
 else:
     if num>50:
         x=num/2
+        print(x)
     else:
         print("number is less than 50")
